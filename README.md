@@ -1,2 +1,2 @@
-# Mobile-POS-using-Js
-I created this POS system as the final project of Javascript during my intership and styled it by using Boostrap 
+# POS using JS webomponent
+ I created this POS system using Javacript Components or styled it with Bootstrap
